@@ -1,0 +1,11 @@
+Name
+Number
+Email
+
+Education
+B.S. Something at University of Something
+High School Diploma  Something High School 
+
+ 
+Languages and Tools
+Python
