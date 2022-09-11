@@ -6,6 +6,5 @@ try:
             for k in keywords:
                 if k in line:
                     print(k)
-
 finally:
     file.close()
